@@ -4,8 +4,15 @@ Este espacio se crea con el fin de registrar las actividades propuestas en el cu
 
 
 ## Instalación
+
+Con el fin de que los proyectos se ejecuten de manera correcta se recomienda trabajar con un entorno virtual y descargar las dependencias desde ahi.
+
+### Ejemplo en VS
+
 1. Clona el repositorio
-2. Instala dependencias
+2. Ejecutar en la terminal python -m venv .venv
+3. activa el entorno virtual .venv\Scripts\activate
+4. instalar dependencias pip install -r requirements.txt
 3. Ejecuta el proyecto
 
 ## 1. Machine_learning_with_python
